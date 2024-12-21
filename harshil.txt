@@ -1,0 +1,68 @@
+Supermarket 
+
+Functional requirements:
+ **Customer **
+ #sign in : -
+		 customer can find products by searching it
+ #Search product :-
+		Customer can find products by searching it
+ #Add to cart :-
+		it allows customer to add items
+ # See offer : 
+		it Show offer ongoing like discounts and all
+ #View profile :-
+		customer can view his profile
+ #update profile  :- 
+		Customer can update profile
+ #Remove profile :-
+		Customer can delete his profile
+ #Give  feedback :-
+		Customer can give feedback of their experience
+ #Payment Methods :-
+		Customer can choose methods of payment like a cash or credit/Debit card
+
+**Manager**
+
+#add product : -
+		add details about new products like their name , price rating etc.
+#Update product details :-
+		Manger can update details of products.
+#Remove product :-
+    		Delete products that is not longer available in market
+#Set offer :-
+		he sets offer and discount om product
+#assign roles :-
+		he assign roles like cashier to staff members
+
+
+**Cashier**
+
+#Scan Product :-
+		 Use barcode Scanner to add product details in a bill
+#Generate bills :-
+		create bills and handle payments in cash or cards
+#Cancel Transaction :- 
+		He cancel transaction at any time of payment failures
+#Process Returns  :-
+		HE handle refunds on exchanges easily.
+
+**Admin**
+
+#view whole system :- 
+		He can view all details bout cashier and manager
+#Calculate tax :-
+		He calculate taxes during checkout 
+#Backpu data :-
+		 He makes sure all important data in cash of loss of data
+#Modify roles :- 	
+		He can changes roles of manager or cashiers
+#Remove roles :-
+		He can remove roles of cashiers and managers
+#add roles :-
+	he can ad more cashier or managers
+
+
+
+
+
+ 
