@@ -1,0 +1,100 @@
+Supermarket Functional Requirements
+Customer
+Sign In:
+
+Customers can sign in to their account to access features.
+
+Search Product:
+
+Customers can find products by searching for them.
+
+Add to Cart:
+
+Allows customers to add items to their cart.
+
+See Offers:
+
+Displays ongoing offers such as discounts and promotions.
+
+View Profile:
+
+Customers can view their profile details.
+
+Update Profile:
+
+Customers can update their profile information.
+
+Remove Profile:
+
+Customers can delete their profile from the system.
+
+Give Feedback:
+
+Customers can provide feedback about their shopping experience.
+
+Payment Methods:
+
+Customers can choose methods of payment, such as cash or credit/debit card.
+
+Manager
+Add Product:
+
+Add details about new products, including their name, price, rating, etc.
+
+Update Product Details:
+
+Managers can update details of existing products.
+
+Remove Product:
+
+Delete products that are no longer available in the market.
+
+Set Offers:
+
+Set offers and discounts on products.
+
+Assign Roles:
+
+Assign roles, such as cashier, to staff members.
+
+Cashier
+Scan Product:
+
+Use a barcode scanner to add product details to the bill.
+
+Generate Bills:
+
+Create bills and handle payments using cash or cards.
+
+Cancel Transaction:
+
+Cancel transactions at any time in case of payment failures.
+
+Process Returns:
+
+Handle refunds and exchanges easily.
+
+Admin
+View Whole System:
+
+View all details about cashiers and managers.
+
+Calculate Tax:
+
+Calculate taxes during checkout.
+
+Backup Data:
+
+Ensure all important data is backed up in case of data loss.
+
+Modify Roles:
+
+Change roles of managers or cashiers.
+
+Remove Roles:
+
+Remove roles of cashiers and managers.
+
+Add Roles:
+
+Add more cashiers or managers.
